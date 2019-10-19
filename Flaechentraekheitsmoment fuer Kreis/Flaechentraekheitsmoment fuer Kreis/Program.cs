@@ -19,7 +19,7 @@ namespace Flächenträgheitsmoment_fuer_Kreis
             double Flächenträgheitsmoment = (float)Pi * Math.Pow(b, 4) / 64;
             Console.WriteLine("Ausgabe des Flaechentraegheitsmoments(Flaechentraegheitsmoment ist fuer X-Achse und Y-Achse gleich):");
             Console.WriteLine(Flächenträgheitsmoment);
-
+            Console.ReadKey();
            
 
 
