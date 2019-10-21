@@ -24,6 +24,7 @@ namespace Flächentägheitsmoment_für_Rechteck
             double Flächenträgheitsmoment2 = b * Math.Pow(a, 3) / 12;
             Console.WriteLine("Ausgabe des Flaechentraegheitsmoments fuer y-Achse:");
             Console.WriteLine(Flächenträgheitsmoment2);
+            Console.ReadKey();
         }
     }
 }
