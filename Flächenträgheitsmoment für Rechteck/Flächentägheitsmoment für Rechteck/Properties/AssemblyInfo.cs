@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // 有关程序集的一般信息由以下
 // 控制。更改这些特性值可修改
 // 与程序集关联的信息。
-[assembly: AssemblyTitle("Flaechentraekheitsmoment fuer Kreis")]
+[assembly: AssemblyTitle("Flächentägheitsmoment für Rechteck")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Flaechentraekheitsmoment fuer Kreis")]
+[assembly: AssemblyProduct("Flächentägheitsmoment für Rechteck")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // 如果此项目向 COM 公开，则下列 GUID 用于类型库的 ID
-[assembly: Guid("1d26316c-34d5-4496-ae48-7e2a95666141")]
+[assembly: Guid("633312f1-dd7c-47b3-98b8-b7335ee3473d")]
 
 // 程序集的版本信息由下列四个值组成: 
 //
